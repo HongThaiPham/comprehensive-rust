@@ -186,60 +186,60 @@ msgstr "Bài tập: Mảng lồng nhau"
 
 #: src/SUMMARY.md src/references.md
 msgid "References"
-msgstr ""
+msgstr "Tham chiếu"
 
 #: src/SUMMARY.md src/references/shared.md
 msgid "Shared References"
-msgstr ""
+msgstr "Tham chiếu được chia sẻ"
 
 #: src/SUMMARY.md src/references/exclusive.md
 msgid "Exclusive References"
-msgstr ""
+msgstr "Tham chiếu độc quyền"
 
 #: src/SUMMARY.md
 msgid "Slices: `&[T]`"
-msgstr ""
+msgstr "Slices: `&[T]`"
 
 #: src/SUMMARY.md src/references/strings.md
 msgid "Strings"
-msgstr ""
+msgstr "Chuỗi"
 
 #: src/SUMMARY.md src/references/exercise.md
 msgid "Exercise: Geometry"
-msgstr ""
+msgstr "Bài tập: Hình học"
 
 #: src/SUMMARY.md src/user-defined-types.md
 msgid "User-Defined Types"
-msgstr ""
+msgstr "Các kiểu người dùng tự định nghĩa"
 
 #: src/SUMMARY.md src/user-defined-types/named-structs.md
 msgid "Named Structs"
-msgstr ""
+msgstr "Cấu trúc được đặt tên"
 
 #: src/SUMMARY.md src/user-defined-types/tuple-structs.md
 msgid "Tuple Structs"
-msgstr ""
+msgstr "Cấu trúc Tuple"
 
 #: src/SUMMARY.md src/user-defined-types/enums.md
 #: src/pattern-matching/destructuring.md
 msgid "Enums"
-msgstr ""
+msgstr "Enums"
 
 #: src/SUMMARY.md
 msgid "Static"
-msgstr ""
+msgstr "Static"
 
 #: src/SUMMARY.md
 msgid "Const"
-msgstr ""
+msgstr "Hằng"
 
 #: src/SUMMARY.md src/user-defined-types/aliases.md
 msgid "Type Aliases"
-msgstr ""
+msgstr "Bí danh cho kiểu"
 
 #: src/SUMMARY.md src/user-defined-types/exercise.md
 msgid "Exercise: Elevator Events"
-msgstr ""
+msgstr "Bài tập: Sự kiện thang máy"
 
 #: src/SUMMARY.md
 msgid "Day 2: Morning"
